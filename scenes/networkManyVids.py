@@ -68,6 +68,20 @@ class NetworkManyVidsSpider(BaseSceneScraper):
         ['1004388132', 'Manyvids: Jodi West'],
         ['320527', 'Manyvids: Diane Andrews'],
         ['97815', 'Manyvids: Midori Rose'],
+        ['1000862654', 'Manyvids: HornyLily'],
+        ['1001137086', 'Manyvids: Meana Wolf'],
+        ['1000718761', 'Manyvids: Jane Cane'],
+        ['599647', 'Manyvids: ForbiddenPerversions'],
+        ['528941', 'Manyvids: Rae Knight xxx'],
+        ['522512', 'Manyvids: Sally Dangelo'],
+        ['590705', 'Manyvids: Bettie Bondage'],
+        ['1001213004', 'Manyvids: Sydney Harwin'],
+        ['1002484950', 'Manyvids: Kimi The Milf Mommy'],
+        ['1001106384', 'Manyvids: MILF Katie'],
+        ['1004323423', 'Manyvids: BellaBates'],
+        ['1000871604', 'Manyvids: MoRina'],
+        ['1002809806', 'Manyvids: The Hot Mommy'],
+        ['1002592624', 'Manyvids: Sammi Starfish'],
     ]
 
     custom_settings = {'AUTOTHROTTLE_ENABLED': 'True', 'AUTOTHROTTLE_DEBUG': 'False'}
@@ -343,6 +357,34 @@ class NetworkManyVidsSpider(BaseSceneScraper):
             return ['Diane Andrews']
         if "Midori Rose" in meta['site']:
             return ['Midori Rose']
+        if "HornyLily" in meta['site']:
+            return ['Horny Lily']
+        if "Meana Wolf" in meta['site']:
+            return ['Meana Wolf']
+        if "Jane Cane" in meta['site']:
+            return ['Jane Cane']
+        if "ForbiddenPerversions" in meta['site']:
+            return ['Tammie Madison']
+        if "Rae Knight xxx" in meta['site']:
+            return ['Rae Knight']
+        if "Sally Dangelo" in meta['site']:
+            return ['Sally Dangelo']
+        if "Bettie Bondage" in meta['site']:
+            return ['Bettie Bondage']
+        if "Sydney Harwin" in meta['site']:
+            return ['Sydney Harwin']
+        if "Kimi The Milf Mommy" in meta['site']:
+            return ['Kimi The Milf Mommy']
+        if "MILF Katie" in meta['site']:
+            return ['MILF Katie']
+        if "BellaBates" in meta['site']:
+            return ['Bella Bates']
+        if "MoRina" in meta['site']:
+            return ['MoRina']
+        if "The Hot Mommy" in meta['site']:
+            return ['Hot Mommy']
+        if "Sammi Starfish" in meta['site']:
+            return ['Sammi Starfish']
         return []
 
     def get_site(self, response):

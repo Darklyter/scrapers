@@ -62,6 +62,30 @@ class SiteBabesInTroubleSpider(BaseSceneScraper):
         ['Clips4Sale', 'Cory Chase', 'Mixed Model Wrestling', '/studio/32588/mixed-model-wrestling/Cat0-AllCategories/Page%s/DisplayOrder-desc/Limit24/', True, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
         ['Clips4Sale', 'GwenMedia', 'GwenMedia', '/studio/16700/gwenmedia-femdom-latex-fetish/Cat0-AllCategories/Page%s/DisplayOrder-desc/Limit24/', True, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
         ['Clips4Sale', 'Sinn Sage Dreams', 'Sinn Sage Dreams', '/studio/96823/sinn-sage-dreams/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Natalie Wonder Clips', 'Natalie Wonder Clips', '/studio/79477/natalie-wonder-clips/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Fell-On Taboo Passions', 'Fell-On Taboo Passions', '/studio/85609/fell-on-taboo-passions/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Rae Knight Fantasies', 'Rae Knight Fantasies', '/studio/95917/butt3rflyforu-fantasies-/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Fifi Foxx Fantasies', 'Fifi Foxx Fantasies', '/studio/120643/fifi-foxx-fantasies/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Lanie Loves Fetish Clips', 'Lanie Loves Fetish Clips', '/studio/68109/lanielove-s-fetish-clips/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Nasty Family', 'Nasty Family', '/studio/82539/nasty-family/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Taboo Mom Natasha', 'Taboo Mom Natasha', '/studio/31167/-taboo-mom-natasha/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Bettie Bondage', 'Bettie Bondage', '/studio/27897/bettie-bondage/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Margo Sullivans House Of Taboo', 'Margo Sullivans House Of Taboo', '/studio/98975/margo-sullivans-house-of-taboo/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Ashley Fires Fetish Clips', 'Ashley Fires Fetish Clips', '/studio/5177/ashley-fires-fetish-clips/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Raquels Fellatio Fantasies', 'Raquels Fellatio Fantasies', '/studio/95957/raquels-fellatio-fantasies/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Klips O Kylie', 'Klips O Kylie', '/studio/75173/klips-o--kylie/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Melanies Sex Addictions', 'Melanies Sex Addictions', '/studio/89206/melanies-sex-addictions/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'XXX Multimedia', 'XXX Multimedia', '/studio/79949/xxx-multimedia/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Perfect Girlfriend (Clips4Sale)', 'Perfect Girlfriend (Clips4Sale)', '/studio/148283/perfect-girlfriend/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Lady Fyre Femdom', 'Lady Fyre Femdom', '/studio/60555/lady-fyre-femdom/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Laz Fyre', 'Laz Fyre', '/studio/111878/laz-fyre/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Mom Comes First', 'Mom Comes First', '/studio/115176/Mom-Comes-First/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Mindi Minks Playhouse', 'Mindi Minks Playhouse', '/studio/80433/mindi-mink-s-playhouse/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'A Taboo Fantasy (Clips4Sale)', 'A Taboo Fantasy (Clips4Sale)', '/studio/58471/taboo/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Shiny Cock Films', 'Shiny Cock Films', '/studio/128845/shiny-cock-films/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'WCA Productions', 'WCA Productions', '/studio/88054/wca-productions/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Meana Wolf', 'Meana Wolf', '/studio/81629/mean-wolf/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Tara Tainton', 'Tara Tainton', '/studio/21571/tara-tainton/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
     ]
 
     url = 'https://www.clips4sale.com'
@@ -282,6 +306,42 @@ class SiteBabesInTroubleSpider(BaseSceneScraper):
 
         if meta['site'] == "Sinn Sage Dreams":
             return ['Sinn Sage']
+
+        if meta['site'] == "Natalie Wonder Clips":
+            return ['Natalie Wonder']
+
+        if meta['site'] == "Rae Knight Fantasies":
+            return ['Rae Knight']
+
+        if meta['site'] == "Lanie Loves Fetish Clips":
+            return ['Lanie Love']
+
+        if meta['site'] == "Taboo Mom Natasha":
+            return ['Taboo Mom Natasha']
+
+        if meta['site'] == "Bettie Bondage":
+            return ['Bettie Bondage']
+
+        if meta['site'] == "Margo Sullivans House Of Taboo":
+            return ['Margo Sullivan']
+
+        if meta['site'] == "Klips O Kylie":
+            return ['Kylie Ireland']
+
+        if meta['site'] == "Melanies Sex Addictions":
+            return ['Melanie Hicks']
+
+        if meta['site'] == "Mindi Minks Playhouse":
+            return ['Mindi Mink']
+
+        if meta['site'] == "Shiny Cock Films":
+            return ['Jane Cane']
+
+        if meta['site'] == "Meana Wolf":
+            return ['Meana Wolf']
+
+        if meta['site'] == "Tara Tainton":
+            return ['Tara Tainton']
 
         return []
 
