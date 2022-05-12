@@ -42,7 +42,18 @@ class ModelHubScraper(BaseSceneScraper):
         'Taylor Noir',
         'Via Hub',
         'Xev Bellringer',
-        'Yinyleon'
+        'Yinyleon',
+        'TinySpinnerMILF',
+        'Jackie Knight',
+        'Madame Amiee Cambridge',
+        'Erin Electra',
+        'Asmrmaddy',
+        'Violet Myers',
+        'Julia Softdome',
+        'Brookelynne Briar',
+        'Saffron Bacchus',
+        'TeenyGinger',
+        'Nicole Doshi'
     ]
 
     selector_map = {
