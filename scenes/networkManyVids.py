@@ -402,7 +402,7 @@ class NetworkManyVidsSpider(BaseSceneScraper):
         if "Mama Fiona" in meta['site']:
             return ['Mama Fiona']
         if "Korina Kova" in meta['site']:
-            return ['Korina Kova']  
+            return ['Korina Kova']
         return []
 
     def get_site(self, response):
