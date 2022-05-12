@@ -86,6 +86,8 @@ class SiteBabesInTroubleSpider(BaseSceneScraper):
         ['Clips4Sale', 'WCA Productions', 'WCA Productions', '/studio/88054/wca-productions/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
         ['Clips4Sale', 'Meana Wolf', 'Meana Wolf', '/studio/81629/mean-wolf/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
         ['Clips4Sale', 'Tara Tainton', 'Tara Tainton', '/studio/21571/tara-tainton/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'Alexis Playground', 'Alexis Playground', '/studio/33899/milf-alexis-rain-s-playground/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
+        ['Clips4Sale', 'This Loving Family', 'This Loving Family', '/studio/120889/fauxcest-taboo--this-loving-family/Cat0-AllCategories/Page%s/ClipDate-desc/Limit24/', False, '//span[@class="thumb_format" and contains(text(),"MP4")]/../following-sibling::div/div/a[1]/@href'],
     ]
 
     url = 'https://www.clips4sale.com'
@@ -342,6 +344,9 @@ class SiteBabesInTroubleSpider(BaseSceneScraper):
 
         if meta['site'] == "Tara Tainton":
             return ['Tara Tainton']
+
+        if meta['site'] == "Alexis Playground":
+            return ['Alexis Rain']
 
         return []
 

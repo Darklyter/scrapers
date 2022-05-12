@@ -82,6 +82,10 @@ class NetworkManyVidsSpider(BaseSceneScraper):
         ['1000871604', 'Manyvids: MoRina'],
         ['1002809806', 'Manyvids: The Hot Mommy'],
         ['1002592624', 'Manyvids: Sammi Starfish'],
+        ['562290', 'Manyvids: Larkin Love'],
+        ['38331', 'Manyvids: Xev Bellringer'],
+        ['419692', 'Manyvids: Little Puck'],
+        ['1000489998', 'Manyvids: Katie Cummings'],
     ]
 
     custom_settings = {'AUTOTHROTTLE_ENABLED': 'True', 'AUTOTHROTTLE_DEBUG': 'False'}
@@ -385,6 +389,15 @@ class NetworkManyVidsSpider(BaseSceneScraper):
             return ['Hot Mommy']
         if "Sammi Starfish" in meta['site']:
             return ['Sammi Starfish']
+        if "Larkin Love" in meta['site']:
+            return ['Larkin Love']
+        if "Xev Bellringer" in meta['site']:
+            return ['Xev Bellringer']
+        if "Little Puck" in meta['site']:
+            return ['Little Puck']
+        if "Katie Cummings" in meta['site']:
+            return ['Katie Cummings']
+            
         return []
 
     def get_site(self, response):
